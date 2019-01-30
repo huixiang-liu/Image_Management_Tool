@@ -21,7 +21,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.List;
 
-public class im4Practice extends Application {
+public class ImageMT2 extends Application {
 
     Stage window;
     Scene scene1, scene2;
